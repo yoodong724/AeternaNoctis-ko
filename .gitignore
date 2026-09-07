@@ -1,0 +1,19 @@
+/AeternaNoctis/
+/build/
+/dist/
+/.tools/
+/font/Library/
+/font/Logs/
+/font/Temp/
+/font/UserSettings/
+/font/Assets/Generated/
+/font/Assets/FontSource/
+/font/Assets/TextMesh Pro/
+__pycache__/
+*.py[cod]
+*.log
+*.assets
+*.resS
+*.bundle
+*.exe
+*.dll
